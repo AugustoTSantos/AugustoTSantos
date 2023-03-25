@@ -7,9 +7,8 @@
   <img aling"center" height="215em" src="https://cdn.discordapp.com/attachments/1009835284034244770/1089281505823563786/Design_sem_nome.gif">
 </div>
 
-<div>
-  ![Snake animation](https://github.com/MrZeroLeft)
-</div>
+![Snake animation](https://github.com/MrZeroLeft)
+
 
 <!--
 **MrZeroLeft/MrZeroLeft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
