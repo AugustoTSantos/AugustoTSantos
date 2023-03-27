@@ -5,9 +5,9 @@
   <img aling="center" height="205em" src="https://github-readme-stats.vercel.app/api?username=MrZeroLeft&show_icons=true&theme=radical">
   <img aling="center" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZeroLeft&show_icons=true&theme=radical">
   <img aling"center" height="205em" src="https://cdn.discordapp.com/attachments/1009835284034244770/1089281505823563786/Design_sem_nome.gif">
-  <p>
+  <h3>
     I'm currently studying database management at FATEC and looking for an internship or junior position. I'm most familiar with Java, but I can adapt to new programming languages. When I'm not studying, I enjoy playing games and watching anime
-  </p>
+  </h3>
 </div>
 
 
