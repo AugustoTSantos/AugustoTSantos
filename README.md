@@ -8,4 +8,4 @@
 </div>
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/MrZeroLeft/MrZeroLeft/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MrZeroLeft/MrZeroLeft/blob/output/github-contribution-grid-snake.svg)
