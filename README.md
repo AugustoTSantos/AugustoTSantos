@@ -7,7 +7,6 @@
   <a href="https://github.com/AugustoTSantos"></a>
   <img aling="center" height="205em" src="https://github-readme-stats.vercel.app/api?username=AugustoTSantos&show_icons=true&theme=radical">
   <img aling="center" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoTSantos&show_icons=true&theme=radical">
-  <img aling"center" height="260em" src="https://cdn.discordapp.com/attachments/1097271846979772478/1108905917099036743/271845368_452376939879431_7637087954533447401_n.jpg">
 </div>
 
 
